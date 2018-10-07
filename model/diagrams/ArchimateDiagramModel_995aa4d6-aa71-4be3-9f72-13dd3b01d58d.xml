@@ -99,7 +99,7 @@
           x="768"
           y="36"
           width="565"
-          height="816"/>
+          height="804"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="66f73bcd-46b5-42d5-b90f-4f95afab424f"
@@ -894,7 +894,7 @@
       <bounds
           x="12"
           y="864"
-          width="1332"
+          width="1320"
           height="216"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -968,7 +968,7 @@
         <bounds
             x="372"
             y="144"
-            width="120"
+            width="372"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessService"
