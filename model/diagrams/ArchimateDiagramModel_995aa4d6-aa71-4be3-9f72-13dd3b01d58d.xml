@@ -1034,4 +1034,10 @@
         xsi:type="archimate:Grouping"
         href="Grouping_ffe43272-9cfd-4826-83be-43539612c5a7.xml#ffe43272-9cfd-4826-83be-43539612c5a7"/>
   </children>
+  <properties
+      key="Report:View:Tag"
+      value="ArqLMB"/>
+  <properties
+      key="Report:View:Detailed"
+      value="true"/>
 </archimate:ArchimateDiagramModel>
