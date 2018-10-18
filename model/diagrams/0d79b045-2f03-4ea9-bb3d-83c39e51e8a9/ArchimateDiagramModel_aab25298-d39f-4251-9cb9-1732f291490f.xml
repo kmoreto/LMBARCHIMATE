@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Visão de  Componetes(aplicação e negocio)"
+    name="Arquitetura Fluxo do dados "
     id="aab25298-d39f-4251-9cb9-1732f291490f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
