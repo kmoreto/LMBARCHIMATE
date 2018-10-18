@@ -1,0 +1,17 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Criar Pedido "
+    id="a91ec5b3-dfe2-45ff-a192-bca06217ad98"
+    documentation="dasdas">
+  <properties
+      key="Interface"
+      value="INT"/>
+  <properties/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d2ffcfb2-5709-4e35-8c52-0f5c98ef1d4f.xml#d2ffcfb2-5709-4e35-8c52-0f5c98ef1d4f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_b2a263db-dd16-4ffd-bb47-03cbb0117a49.xml#b2a263db-dd16-4ffd-bb47-03cbb0117a49"/>
+</archimate:FlowRelationship>
